@@ -1,0 +1,11 @@
+---
+nom:
+alias:
+naissance:
+deces:
+ville:
+famille:
+fonction:
+photo:
+tags:
+---
