@@ -35,7 +35,7 @@ Le mode opératoire était macabre et théâtral : les victimes — le plus souv
 
 ## Les origines criminelles
 
-La méthode aurait été utilisée pour la première fois par la famille [[Provenzano]], d'origine sicilienne, à La Nouvelle-Orléans, puis reprise par la famille [[Morello]] à New York.
+La méthode aurait été utilisée pour la première fois par la famille [[Famille Provenzano]], d'origine sicilienne, à La Nouvelle-Orléans, puis reprise par la famille [[Morello]] à New York.
 
 **La Nouvelle-Orléans** : c'est dans ce contexte que les autorités locales commencent à soupçonner l'existence d'une organisation mafieuse structurée. Ces meurtres ont attiré l'attention du chef de police David C. Hennessy, dont l'assassinat en 1890 fut attribué à la mafia sicilienne et provoqua l'un des plus grands lynchages de masse de l'histoire des États-Unis.
 
