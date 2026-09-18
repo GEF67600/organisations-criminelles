@@ -24,7 +24,6 @@ tags:
   - black-hand
 date_creation: 2026-09-18
 ---
-
 # Barrel Murder (Meurtre au tonneau).
 
 ![[Barrel_Murder.png|461]]
