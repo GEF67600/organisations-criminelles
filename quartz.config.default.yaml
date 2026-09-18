@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: gef67600.github.io/organisations-criminelles
   ignorePatterns:
     - private
     - templates
