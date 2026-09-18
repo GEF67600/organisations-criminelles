@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: fr-Fr
+  locale: fr-FR
   baseUrl: gef67600.github.io/organisations-criminelles
   ignorePatterns:
     - private
