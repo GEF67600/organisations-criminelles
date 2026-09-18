@@ -25,8 +25,9 @@ tags:
 date_creation: 2026-09-18
 ---
 
-# Barrel Murder (Meurtre au tonneau)
+# Barrel Murder (Meurtre au tonneau).
 
+![[Barrel_Murder.png|461]]
 ## Origines
 
 Le "meurtre au tonneau" était une méthode utilisée par les premiers mafieux américains pour se débarrasser des corps de leurs victimes. Cette pratique remonterait aux années 1870, bien que les premiers cas recensés à New York datent de 1895 et 1900.
